@@ -1,5 +1,19 @@
 # SB305 Pin Define
 
+## Led Indicator
+
+| Led | Color | Status | Comment |
+| -- | -- | -- | -- |
+| Pwr | Green | Off | System off|
+|  |  | On | System operating|
+|  |  | Flashing/Blinking | USB powered|
+| Err | Red | Off | No error |
+| | | On | TBD |
+| AIS | Green | Off | Not connect with AtoN|
+| | | On | Connect with AtoN |
+| Net | Green | Off | No Ethernet not connection |
+| | | Flashing/Blinking | Data transmitting |
+
 ## CON1
 
 18-pin
