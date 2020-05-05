@@ -2,6 +2,8 @@
 
 ## CON1
 
+18-pin
+
 | Pin | Signal | Color |
 | -- | -- | -- |
 | 1 | ISO_DI_1 | Red |
@@ -25,6 +27,27 @@
 
 ## CON2
 
+12-pin
+
+| Pin | Signal | Color |
+| -- | -- | -- |
+| 1 | SDI12 | Brown |
+| 2 | ALM_NC | Blue |
+| 3 | DGND | White |
+| 4 | ALM_COM | Green |
+| 5 | RS232_3_RX | Yellow |
+| 6 | ALM_NO | Gray |
+| 7 | RS232_3_RX | Pink |
+| 8 | RS422_2_TXN | Red |
+| 9 | DGNG | Black |
+| 10 | RS422_2_TXP | Orange |
+| 11 | RS422_2_RXP | Purple |
+| 12 | RS422_2_RXN | Light Green |
+
+## AIS
+
+18-pin
+
 | Pin | Signal | Color |
 | -- | -- | -- |
 | 1 | V12 | Red |
@@ -33,33 +56,18 @@
 | 4 | RS232_2_TX | Brown |
 | 5 | DGND | White |
 | 6 | FGND | Green |
-| 7 | RS422_RXP | Yellow |
-| 8 | RS422_RXN | Purple |
+| 7 | RS422_1_RXP | Yellow |
+| 8 | RS422_1_RXN | Purple |
 | 9 |  | Gray |
 | 10 | WK_OUT_CN | Pink |
-| 11 | RS422_TXP | Orange |
+| 11 | RS422_1_TXP | Orange |
 | 12 |  | Red/White |
 | 13 |  | Black/White |
-| 14 | RS422_TXN | Orange/White |
+| 14 | RS422_1_TXN | Orange/White |
 | 15 | RS232_2_RX | Brown/White |
 | 16 |  | Green/White |
 | 17 | WK_IN_CN | Light Green |
 | 18 | RS232_1_RX | Blue/White |
 
-## AIS
 
-| Pin | Signal | Color |
-| -- | -- | -- |
-| 1 | SDI12 | Brown |
-| 2 | ALM_NC | Blue |
-| 3 | DGND | White |
-| 4 | ALM_COM | Green |
-| 5 | RS232_RX | Yellow |
-| 6 | ALM_NO | Gray |
-| 7 | RS232_RX | Pink |
-| 8 | RS422_TXN | Red |
-| 9 | DGNG | Black |
-| 10 | RS422_TXP | Orange |
-| 11 | RS422_RXP | Purple |
-| 12 | RS422_RXN | Light Green |
 
